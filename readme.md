@@ -27,8 +27,8 @@ pip install Flask SQLAlchemy
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/url-shortener.git
-    cd url-shortener
+    git clone https://github.com/shameemm/URL-Shortner-Flask/.git
+    pip install -r requirements.txt
     ```
 
 2. **Run the application:**
