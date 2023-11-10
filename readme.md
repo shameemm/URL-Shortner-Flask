@@ -70,6 +70,3 @@ pip install Flask SQLAlchemy
     curl http://localhost:5000/metadata/{short_code}
     ```
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
